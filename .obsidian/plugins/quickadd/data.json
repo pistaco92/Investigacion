@@ -1,0 +1,50 @@
+{
+  "choices": [],
+  "macros": [
+    {
+      "name": "mover a referencias",
+      "id": "c7ee383d-f0f6-4e85-a832-bcf6d8703ec6",
+      "commands": [
+        {
+          "name": "Explorador de archivos: Move file to another folder",
+          "type": "Obsidian",
+          "id": "f98e21fc-c53b-42c0-9c3b-ed7dbb7d9390",
+          "commandId": "file-explorer:move-file"
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "3f956937-2f05-4ce4-a7be-cbde1d99fea3",
+          "choice": {
+            "id": "7d091558-906c-4fd3-8dd6-7ffd12b14542",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "",
+            "fileNameFormat": {
+              "enabled": false,
+              "format": ""
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line"
+}

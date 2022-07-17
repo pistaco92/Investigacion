@@ -1,0 +1,1 @@
+Al parecer el niño aprende en funcion de la imitacion las primeras etapas, es informacion bastante util dado que puede explicar influencia del entorno (especificamente, de los padres) al desarrollo de la personalidad 

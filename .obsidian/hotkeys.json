@@ -1,0 +1,129 @@
+{
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "obsidian-excalidraw-plugin:insert-link": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-excalidraw-plugin:toggle-lock": [],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-on-current": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "periodic-notes:open-daily-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Z"
+    }
+  ],
+  "workbench-obsidian:workbench-embed-current-note": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "workbench-obsidian:insert-workbench": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "V"
+    }
+  ],
+  "editor:insert-embed": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-excalidraw-plugin:Downloaded/Create new markdown file and embed into active drawing": [],
+  "obsidian-excalidraw-plugin:Downloaded/Add Link to New Page and Open": [],
+  "obsidian-excalidraw-plugin:convert-to-excalidraw": [],
+  "quickadd:choice:57a4635b-2410-4b76-8bf2-fe972b76e538": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "editor:toggle-bold": [],
+  "obsidian-excalidraw-plugin:Downloaded/Scribble Helper": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "7"
+    }
+  ],
+  "pane-relief:go-3rd": [],
+  "pane-relief:put-3rd": [],
+  "quick-explorer:browse-current": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Z"
+    }
+  ],
+  "note-refactor-obsidian:app:extract-selection-first-line": [],
+  "workspace:open-in-new-window": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "ae0958792226d231",
+    "type": "split",
+    "children": [
+      {
+        "id": "95a663483d6308cb",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6592d71b60cd4116",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d0cc4f7aef19be7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d4a83f7fcd77c95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c92860d70c5dd4ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 195
+  },
+  "right": {
+    "id": "44515123d45a0c07",
+    "type": "split",
+    "children": [
+      {
+        "id": "57d606c2ede11fa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b17c972892be830",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8d56beecf2f431a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331,
+    "collapsed": true
+  },
+  "active": "95a663483d6308cb",
+  "lastOpenFiles": [
+    "Bandeja/202204230701_.md",
+    "Ideas/p202204210549_.md",
+    "Ideas/202203121725.md",
+    "Bandeja/202204230541_.md",
+    "Ideas/202204170611.md",
+    "Bandeja/e202204220640_.md",
+    "Bandeja/t202204220636_.md",
+    "Ideas/202204180719_.md",
+    "Ideas/202203290741.md",
+    "Ideas/202203120835.md"
+  ]
+}

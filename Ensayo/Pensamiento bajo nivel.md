@@ -1,0 +1,2 @@
+*Pensamiento Bajo Nivel*
+Expuesta por (1) en que el individuo, cambia el enfoque de su perspectiva de una general a uno mucho mas miticuloso. Esto cumple 2 funciones, por un lado le permite realizar sus actos con eficiencia, y por otro lado, el alejarce del plano global, no asocia sus actos como maldad. dado que para realizar un analisis moral, se necesita un enfoque mas alejado.

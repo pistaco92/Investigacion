@@ -1,0 +1,4 @@
+*Empatia y justicia*
+
+Existen relaciones entre lo que es la empatia y la moral. por una lado, una es tocada por pignet (pignet), que señala que el individuo para desarrollar justicia, requiere poder empatizar con el otro individuo, a fin de protegerlo. siendo su objetivo, que otros caigan victimas de la misma villania que el en antaño sufrio. la segunda relacion, comentada por boris (resilencia), que el individuo al empatizar con otros, facilita el flujo de culpa al el ejercer daño, lo que va volviendo su moral mas robusta. l
+a pesar de ambos utilizar el mismo concepto, la distincion en mas que clara, el primer autor le atribuye a la empatia una funcion justiciera, para proteger. y el segun, una funcion culpogena. autoreguladora, otros autores refuerzan lo anterior(1)

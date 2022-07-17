@@ -1,0 +1,1 @@
+Dado el razonamiento, que clase de ambiente facilita uno u otro estadio? cuales son con precision los estadios? 
