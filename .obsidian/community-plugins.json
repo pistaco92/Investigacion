@@ -3,11 +3,13 @@
   "tag-wrangler",
   "note-refactor-obsidian",
   "obsidian-excalidraw-plugin",
-  "quick-explorer",
   "workbench-obsidian",
   "obsidian-minimal-settings",
   "obsidian-word-sprint",
   "quickadd",
   "obsidian-shellcommands",
-  "remotely-save"
+  "remotely-save",
+  "obsidian-git",
+  "obsidian-spaced-repetition",
+  "longform"
 ]

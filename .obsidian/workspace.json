@@ -4,18 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "4a20b93d6c0c5b5c",
+        "id": "35f743ec4713c12c",
         "type": "tabs",
         "children": [
           {
-            "id": "9efd7c9c21f18545",
+            "id": "e7c8ed8dad619f2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/202203270526.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d36c024c9982754b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ensayo produccion/La personalidad oscura/La empatia.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e5516db9d2b0d87b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "85492024d935deee",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c79ee0a5bce27d8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ensayo produccion/La personalidad oscura/Index.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f1d7a1f2e022b08a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ensayo produccion/La personalidad oscura/Destilando lo cruel.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e57b59bd8b5be57e",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -34,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "low resolution",
+                "query": "empatia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -60,14 +125,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "62c646a44ce1496d",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 621.5110359191895
   },
   "right": {
     "id": "815afc11c0c2b435",
@@ -83,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ensayo produccion/La personalidad oscura/La empatia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ensayo produccion/La personalidad oscura/La empatia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,15 +194,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "284ac706e14fdd5a",
-            "type": "leaf",
-            "state": {
-              "type": "stat-view",
-              "state": {}
+              "state": {
+                "file": "Ensayo produccion/La personalidad oscura/La empatia.md"
+              }
             }
           },
           {
@@ -138,29 +206,57 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "0c69bdd9131d369c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0048d6f56f28b30",
+            "type": "leaf",
+            "state": {
+              "type": "stat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
     "width": 200,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "workbench-obsidian:Workbench": false,
+      "obsidian-word-sprint:Activate Word Sprint Leaf": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
+    }
   },
-  "active": "9efd7c9c21f18545",
+  "active": "75eee3ddd78f96ba",
   "lastOpenFiles": [
-    "Bandeja/202210230728.md",
-    "Excalidraw/202210230728 2022-10-23 07.29.10.excalidraw.md",
-    "Excalidraw/202210230728 2022-10-23 07.29.10.excalidraw.svg",
-    "Map of content.md",
-    "Workbench.md",
-    "Titulos.md",
-    "Ideas/1344.png",
-    "Ideas/202207250229.md",
-    "Ideas/Logrado despertar.md",
-    "Ideas/Gggg.md"
+    "Ideas/202203270526.md",
+    "Ideas/202203280628.md",
+    "Ideas/202203281304.md",
+    "Ideas/202203290641.md",
+    "Ideas/202203301504.md",
+    "Ideas/202203301452.md",
+    "Ideas/202203280623.md",
+    "Ideas/202204010616.md",
+    "Ideas/202204010634.md",
+    "Ideas/202204010720.md"
   ]
 }

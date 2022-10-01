@@ -5,5 +5,12 @@
   "alwaysUpdateLinks": true,
   "defaultViewMode": "source",
   "livePreview": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

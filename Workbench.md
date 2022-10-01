@@ -18,3 +18,5 @@
 ![[2022-07-06]]
 ![[bandeja_desde_el_ipad/texto2]]
 ![[Bandeja_ipad/texto5]]
+![[LA PERSONALIDAD OSCURA ESQUEMA]]
+![[202204280838_Empatia y justicia]]

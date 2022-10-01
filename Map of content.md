@@ -14,14 +14,13 @@
 - [[La personalidad oscura]]
 - [[Titulos]]
 
-
-
-
-
-
-
-
 [[202208050425i]]
 [[202208050433i]]
 [[202208050312]]
 [[202208130243]]
+
+- Proyecto alice
+
+# Bibliografico
+
+Python promt tool kit [[R202210260445]]

@@ -1,0 +1,197 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "La personalidad oscura/Index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2022-12-25T16:07:06.876Z",
+      "total": 0,
+      "drafts": {
+        "La personalidad oscura/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Introduccion": 0,
+            "Explicacion estructura ensayo": 0,
+            "Estructura capitulo y lo que se espera responder": 0,
+            "Lo saludable y lo patologico": 0,
+            "Lo patologico": 0,
+            "El esquema del neurotico": 0,
+            "Lo corriente": 0,
+            "Descripcion general": 0,
+            "Destilando lo cruel": 0,
+            "Componentes y personalidad": 0,
+            "Que tipos existen?": 0,
+            "El narcicista": 0,
+            "Que es el narcisismo?": 0,
+            "Autoestima alta o baja?": 0,
+            "Influencia en maldad?": 0,
+            "El hiperscrupuloso": 0,
+            "Nociones de lo que es la justicia": 0,
+            "Su exageracion": 0,
+            "Origen del narcisista": 0,
+            "Consecuencias en maldad": 0,
+            "El desconsiderado": 0,
+            "La empatia": 0,
+            "Porque carecen de ella?": 0,
+            "Como afecta?": 0,
+            "Los torturados": 0,
+            "El consumido por el odio": 0,
+            "Origen del odio": 0,
+            "El consumido por la culpa": 0,
+            "preguntas a responder respecto a culpa": 0,
+            "Sienten culpa?": 0,
+            "Si la sienten, como continuan con sus actos?": 0,
+            "Como les afecta la culpa?": 0,
+            "origen de la culpa": 0,
+            "cargar con la cruz": 0,
+            "paleativos y distorciones": 0,
+            "temor a la acusacion": 0,
+            "Analisis de la personaliad neurotica": 0,
+            "Analisis de jung": 0,
+            "El necesitado": 0,
+            "Las necidades corrientes": 0,
+            "Relacion con la maldad?": 0,
+            "Porque en ellos estan pronunciadas?": 0,
+            "La victima": 0,
+            "El inesteable": 0,
+            "El envidioso": 0,
+            "El pretencioso": 0,
+            "Dependencia al juicio externo": 0,
+            "Consecuencias": 0,
+            "El cinico": 0,
+            "Percepcion del mundo": 0,
+            "Persepcion distorcionada": 0,
+            "Consecuencias de su vision en el resto": 0,
+            "Temor a acusacion": 0,
+            "Consecuencias para ellos": 0,
+            "Fracaso interpersonal": 0,
+            "Empobrecimiento existencial": 0,
+            "Esperanza": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2022-12-24T14:00:44.225Z",
+      "total": 0,
+      "drafts": {
+        "La personalidad oscura/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Introduccion": 0,
+            "Explicacion estructura ensayo": 0,
+            "Estructura capitulo y lo que se espera responder": 0,
+            "Lo saludable y lo patologico": 0,
+            "Lo patologico": 0,
+            "El esquema del neurotico": 0,
+            "Lo corriente": 0,
+            "Descripcion general": 0,
+            "Destilando lo cruel": 0,
+            "Componentes y personalidad": 0,
+            "Que tipos existen?": 0,
+            "El narcicista": 0,
+            "Que es el narcisismo?": 0,
+            "Autoestima alta o baja?": 0,
+            "Influencia en maldad?": 0,
+            "El hiperscrupuloso": 0,
+            "Nociones de lo que es la justicia": 0,
+            "Su exageracion": 0,
+            "Origen del narcisista": 0,
+            "Consecuencias en maldad": 0,
+            "El desconsiderado": 0,
+            "La empatia": 0,
+            "Porque carecen de ella?": 0,
+            "Como afecta?": 0,
+            "Los torturados": 0,
+            "El consumido por el odio": 0,
+            "Origen del odio": 0,
+            "El consumido por la culpa": 0,
+            "preguntas a responder respecto a culpa": 0,
+            "Sienten culpa?": 0,
+            "Si la sienten, como continuan con sus actos?": 0,
+            "Como les afecta la culpa?": 0,
+            "origen de la culpa": 0,
+            "cargar con la cruz": 0,
+            "paleativos y distorciones": 0,
+            "temor a la acusacion": 0,
+            "Analisis de la personaliad neurotica": 0,
+            "Analisis de jung": 0,
+            "El necesitado": 0,
+            "Las necidades corrientes": 0,
+            "Relacion con la maldad?": 0,
+            "Porque en ellos estan pronunciadas?": 0,
+            "La victima": 0,
+            "El inesteable": 0,
+            "El envidioso": 0,
+            "El pretencioso": 0,
+            "Dependencia al juicio externo": 0,
+            "Consecuencias": 0,
+            "El cinico": 0,
+            "Percepcion del mundo": 0,
+            "Persepcion distorcionada": 0,
+            "Consecuencias de su vision en el resto": 0,
+            "Temor a acusacion": 0,
+            "Consecuencias para ellos": 0,
+            "Fracaso interpersonal": 0,
+            "Empobrecimiento existencial": 0,
+            "Esperanza": 0
+          }
+        },
+        "La personalidad oscura/La personalidad oscura/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}

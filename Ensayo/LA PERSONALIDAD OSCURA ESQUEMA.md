@@ -1,15 +1,12 @@
 
-%%# Index%%
+# Indice
 ![[202204200639_Index]]
 # Introducción 
-¿Qué es la personalidad oscura? Esa idiosincrasia que todos nos hemos topado de alguna vez, del tipo insegura, temerosa, resentida, inclinada hacia lo siniestro, no sabes definirlo, pero lo reconoces. Lo observas y te preguntas “¿Qué le habrá pasado?”. Esta, junto con otras interrogantes, son lo que se espera contestar en el presente ensayo. A grandes rasgos, este objeto de estudio se puede manifestar en un amplio abanico de variantes, por ende, la información al respecto es prácticamente inagotable. Por consiguiente, con el objetivo de facilitar la comprensión del contenido, se han definido unos parámetros específicos, para limitar el espectro y se han establecido tipologías generalizadas para abarcar la mayor parte de los casos posibles. En términos de la Psicoanalítica, se habla de una <<Personalidad neurótica nuclear>>. Nótese la relevancia del término “nuclear”, es decir, que es intrínseco de estos individuos, y como toda patología de este tipo, ha de tener una raíz. tal vez una relación disfuncional con los padres, o un trauma producto de hecho particular, existiendo diversos factores involucrados, que se analizaran con más detalle en el desarrollo de este ensayo
+¿Qué es la personalidad oscura? Esa idiosincrasia que todos nos hemos topado de alguna vez, del tipo insegura, temerosa, resentida, inclinada hacia lo siniestro, no sabes definirlo, pero lo reconoces. Lo observas y te preguntas “¿Qué le habrá pasado?”. Esta, junto con otras interrogantes, son lo que se espera contestar en el presente ensayo. A grandes rasgos, este objeto de estudio se puede manifestar en un amplio abanico de variantes, por ende, la información al respecto es prácticamente inagotable. Por consiguiente, con el objetivo de facilitar la comprensión del contenido, se han definido unos parámetros específicos, para limitar el espectro y se han establecido tipologías generalizadas para abarcar la mayor parte de los casos posibles. En términos de la Psicoanalítica, se habla de una <<Personalidad neurótica nuclear>>. Nótese la relevancia del término “nuclear”, es decir, que es intrínseco de estos individuos, y como toda patología de este tipo, ha de tener una raíz. tal vez una relación disfuncional con los padres, o un trauma producto un de hecho particular, existiendo diversos factores involucrados, que se analizaran con más detalle en el desarrollo de este ensayo
 
-
-¿Qué es?
-![[202205060849_]]
 
 # Lo patológico
-![[202205081114_]]
+![[Ensayo/Lo patologico]]
 
 # Necesidades emociones
 Lo primero de lo cual entraremos en detalle es en lo que respecta a las necesidades, tal como se ha comentado con anterioridad, lo que determina lo abyecto no es la dependencia persee, si no el parasitismo resultante. Ya se nos sabrá perdonar la vulgaridad del término, pero consideramos que es el símil más preciso.
@@ -39,7 +36,7 @@ Donde se ilustran estos puntos en el caso del apego ambivalente, derivado de una
 Podríamos inferir otras más, pero para abarcar el espectro de variantes, concluimos que no es compatible desear la felicidad de la persona, su independencia, y su crecimiento. Con necesitarla exclusivamente para sí.  
 
 
-# El odio
+El odio
 ![[202204180513]]
 # Envidia
 ![[e202204250526_ENVIDIA]]
@@ -50,16 +47,17 @@ Podríamos inferir otras más, pero para abarcar el espectro de variantes, concl
 # Moral
 ![[202205121502_]]
 
-### Defensas altas
+
+# Defensas altas
 
 ![[202205061453_]]
 
-%%¿Porque sus reacciones?%%
+# ¿Porque sus reacciones?
 
 ![[202205061452_]]
 
 
-Relaciones interpersonales
+# Relaciones interpersonales
 
 El hecho que el individuo sea incapaz de relaciones de confianza hace que los usufructos de estas le sean inaccesibles, como lo es la estructuracion del yo, en específico, retroalimentación de la conducta mediante observaciones (fortalecimiento de la autoestima), entrega de competencias intrínsecas de la fuente, y tejer una capa afectiva.
 Puestos los puntos en detalle, una de las consecuencias es que se mantiene menguante la autopersepcion del individuo. Sin relación a la percepción a la imagen en sí misma, pero si a la felicidad interna, y es que los buenos recuerdos producidos en las relaciones interpersonales suelen ser un buen abono para la autoestima, además de la nuestra percepción de lo que fueron para nosotros da una pauta a seguir en momentos de confusión.
@@ -71,25 +69,12 @@ Es curioso el cómo la nutrición de la raíz de sus malformaciones que le harí
 
 
 
-Necesidad afectiva
-En lo que respecta a las necesidades, se puede estudiar de diversos ángulos; Cuales son, De donde surgen, Porque, Que métodos emplea para su satisfacción; y cuáles de estos guardan relación con lo abyecto. Intentaremos responder en detalle cada una de estas.  
-Observando la categoría en su conjunto, todas consisten en una dependencia desorbitante hacia un recurso externo, el cómo se manifiesta toma diversas formas. Cariño, Atención, Superioridad. A pesar de verse en completo distintas, todas son derivados de una privación de cuidados. La literatura existente es basta en lo que respecta a falencias afectivas, dado que es el responsable de gran parte de patologías. Inclusive los episodios de abuso son aminorados si sincrónicos a estos el infante suple sus necesidades por otra vía. descartando así, que aquello sea la fuente principal de una malformación. Por lo que, dada la información disponible, no nos será complicado establecer una pauta general, antes de entrar en las especificaciones antes citadas. 
-Afecto en el desarrollo
-El afecto es un recurso indispensable para la época del desarrollo, dado que nos permite sentirnos seguros durante este, permitiéndonos desarrollar las competencias relevantes para la interacción adulta. Además, el infante ha de aprender herramientas para solicitar afecto, de reciprocidad, seleccionar las futuras fuentes, y ser capaz de atraerlos. Si, se han suplido correctamente las necesidades, el individuo podrá ser autónomo, solicitar apoyo cuando la crisis lo requiera, y mantener retribución; es decir, una empatía, y satisfacer necesidades ajenas mediante la respuesta sensible. La forma en que se interactúe con el individuo repercute en como representa a sus cercanos, a el mismo, y a sus emociones. Si este recibe afecto al mostrarse angustiado, por ejemplo, de aquello podrá abstraer diversas conclusiones, la primera es que tal emoción es la señal para poder solicitar recursos, la segunda es la reacción que puede esperar ante sus fuentes, es decir, de auxilio. Y la tercera es que es el mismo es merecedor de soporte. Así es como se va moldeando la percepción del individuo, conceptualizando las necesidades propias como ajenas. Esto es relevante, dado que por ejemplo en episodios de abuso, si ante la misma situación citada se recibe violencia en reemplazo, no solo se adquiere la noción de que es lo esperable de parte de otros, si no que distorsiona lo que el debería entregar al resto. Explicando una posible actitud avasalladora.
-La seguridad otorgada durante el correcto procedimiento le permite al adulto realizar las empresas necesarias para enlazarse con otros, con los riesgos que ello conlleva. Una ilustración del cómo se obtiene esta propiedad seria la siguiente, el infante al percatarse que su fuente no se encuentra presente, cesa sus actividades exploratorias, y se dedica a inspeccionar donde se encuentra su progenitor. Aunque, si en el trayecto se encuentra otro adulto, podrá establecer un enlace temporal con este, hasta que finalmente el infante encuentra su fuente original, celebrando haber establecido este nuevo nexo. Mediante la repetición de este proceso, se va aumenta la seguridad que se tiene para obtener respaldo de manera autónoma en la emergencia. 
-El nivel de exigencia de la situación al no estar presente la fuente primaria, es lo que determina la pericia seductora desarrollada, por ello se puede explicar una incompetencia generalizada de la época actual, al mantener a los infantes sometidos al placer instantáneo del internet, o a una sobre protección, no se facilitan instancias para desenvolverse afectivamente. Caso contrario, es que, si se tal capacidad se encuentra pulida, al exponerse al mundo se le será amado con frecuencia, nutriendo todavía más al individuo, un círculo de retroalimentación positiva.
-Otro usufructo del afecto es la regulación de la angustia de la separación, el infante puede apaciguar mediante 2 formas, la primera es la antes mencionada, localizando una figura alternativa, así reduciendo la intensidad de la emoción es la misma medida que se aumenta la seguridad para conectarse con otros, y la otra es con la utilización de objetos que representen el enlace, obteniendo una estrategia para autorregularse. En lo idóneo, debe haber un equilibrio entre ambas vías, cualquier extremo será penalizado. En el primer caso por una incapacidad para mantenerse en soledad, y en el segundo por un desinterés hacia sus pares. La falta de cualquier de estas los predispone a tal emoción, revelando matices interesantes. En la sobreprotección, la falta de confianza en la capacidad para establecer relaciones puede llevarlos a ser dependientes, y ansiosos ante la perdida. En caso de abuso, suelen ser inconsolables incluso ante al regreso de la fuente. Además de volverlos relativamente inestables, al menos bajo la teoría del apego, dado que, en otras obras, he encontrado respuestas distintas a la inestabilidad de la personalidad que describo, que en su debido momento expondré.
-La capa resiliente también es tejida a través del afecto. entendiéndose como tal termino, la capacidad el individuo para tolerar las frustraciones, mantenerse firme ante los embates de la vida, y la recuperación ante estos. Además de una visión positiva de la vida que facilita la resistencia a las desgracias futuras. 
-
-Las consecuencias, más allá de lo inferirle en lo ya expuesto, serian retrasos cognitivos graves, dado que estudios revelan relación entre afecto y desarrollo mental. Malformación de habilidades que se obtienen por imitación del progenitor, incompetencias comunicativas. Nótese que no se debe confundir tal termino con la pericia seductora, dado que el primero tiene con un intercambio fructífero mientras que el segundo con la atracción de fuentes. La diferencia practica radica por ejemplo en que si el adulto, producto de una perenne ansia de afecto, se volvió extremadamente hábil estableciendo relaciones precarias, de todas formas, estas fracasan en su mantención por su expresividad ambigua. Lo anterior refleja tácitamente otro punto a exponer, si bien puede haber una compensación futura ante una base de afecto endeble, está siempre produce alguna clase de embrollo. Los primeros auxilios por recurrir ante un individuo con un vacío de esta índole, es nutrirlo directamente y otorgándole las herramientas para su respectiva autonomía. Entre antes mejor, porque la curva de mejoría resultante dependerá en gran medida de que tanto tiempo se ha mantenido en condiciones subóptimas, y del desarrollo previo durante la hambruna afectiva.
-
-Consecuencias
+# Necesidad afectiva
 
 
-%%Esperanza%%
+
+
+
+
+# Esperanza
 ![[202204220650_Esperanza]]
-
-
-
-
-

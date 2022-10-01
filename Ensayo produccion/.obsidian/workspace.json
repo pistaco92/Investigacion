@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "baeb67b3a89544cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "cea23fd94e7ad1c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51d281a1986c284f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La personalidad oscura/Consecuencias para ellos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1edd64e8167232ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La personalidad oscura.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bea03a1c453d1981",
+    "type": "split",
+    "children": [
+      {
+        "id": "20d14b5eee3af22c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05afb7c213a4764a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae0489932b42f84d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62f8d47307fe93e0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d142ba10eeac0954",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "938eaf8fe8ec4021",
+    "type": "split",
+    "children": [
+      {
+        "id": "517fb6b70b88c3de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "455b2278e8fbe465",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "La personalidad oscura.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "920d80642c2e444a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "La personalidad oscura.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "469b48b8a90e93ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c0a973daabe222f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "La personalidad oscura.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1edd64e8167232ae",
+  "lastOpenFiles": [
+    "La personalidad oscura/Consecuencias para ellos.md",
+    "La personalidad oscura/Empobrecimiento existencial.md",
+    "La personalidad oscura/Esperanza.md",
+    "La personalidad oscura/El necesitado.md",
+    "La personalidad oscura/Las necidades corrientes.md",
+    "La personalidad oscura/a.md",
+    "La personalidad oscura/Descripcion general.md",
+    "La personalidad oscura/Lo saludable y lo patologico.md",
+    "La personalidad oscura/Introduccion.md",
+    "La personalidad oscura/Destilando lo cruel.md"
+  ]
+}
