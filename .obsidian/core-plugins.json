@@ -4,10 +4,15 @@
   "switcher",
   "graph",
   "backlink",
+  "outgoing-link",
   "tag-pane",
   "page-preview",
-  "note-composer",
+  "templates",
   "command-palette",
+  "editor-status",
+  "starred",
   "zk-prefixer",
+  "outline",
+  "word-count",
   "file-recovery"
 ]

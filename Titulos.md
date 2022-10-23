@@ -1,0 +1,8 @@
+
+
+```dataview
+LIST FROM #Titulo 
+
+```
+
+

@@ -1,0 +1,103 @@
+{
+  "settings_version": "0.16.0",
+  "debug": false,
+  "obsidian_command_palette_prefix": "Execute: ",
+  "preview_variables_in_command_palette": true,
+  "show_autocomplete_menu": true,
+  "working_directory": "",
+  "default_shells": {},
+  "environment_variable_path_augmentations": {},
+  "error_message_duration": 20,
+  "notification_message_duration": 10,
+  "execution_notification_mode": "disabled",
+  "output_channel_clipboard_also_outputs_to_notification": true,
+  "enable_events": true,
+  "approve_modals_by_pressing_enter_key": true,
+  "max_visible_lines_in_shell_command_fields": false,
+  "shell_commands": [
+    {
+      "id": "fd35amxsxx",
+      "platform_specific_commands": {
+        "default": "rsync -r /home/ignacio/Documentos/Bandeja_ipad/Bandeja_ipad/Bandeja/ Bandeja"
+      },
+      "shells": {},
+      "alias": "mover bandeja ipad",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    {
+      "id": "0lk6zb956z",
+      "platform_specific_commands": {
+        "default": "rsync -r /home/ignacio/Documentos/Bandeja_ipad/Bandeja_ipad/Excalidraw/ Excalidraw"
+      },
+      "shells": {},
+      "alias": "mover excalidraw from ipad",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    {
+      "id": "mf214x4mqd",
+      "platform_specific_commands": {
+        "default": "obsidian obsidian://open?vault=Bandeja_ipad&file=Bandeja%2F202210221903"
+      },
+      "shells": {},
+      "alias": "open ipad vault",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    }
+  ],
+  "prompts": [
+    {
+      "id": "dma2wu2efm",
+      "title": "",
+      "description": "",
+      "preview_shell_command": false,
+      "fields": [],
+      "execute_button_text": "Execute"
+    }
+  ],
+  "custom_variables": [],
+  "output_wrappers": []
+}

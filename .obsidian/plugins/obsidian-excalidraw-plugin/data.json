@@ -1,15 +1,15 @@
 {
   "folder": "Excalidraw",
-  "embedUseExcalidrawFolder": true,
+  "embedUseExcalidrawFolder": false,
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
   "compress": false,
   "autosave": true,
-  "autosaveInterval": 10000,
+  "autosaveInterval": 15000,
   "drawingFilenamePrefix": "Drawing ",
   "drawingEmbedPrefixWithFilename": true,
   "drawingFilnameEmbedPostfix": " ",
-  "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
+  "drawingFilenameDateTime": "",
   "useExcalidrawExtension": true,
   "displaySVGInPreview": true,
   "displayExportedImageIfAvailable": true,
@@ -25,26 +25,32 @@
   "zoomToFitMaxLevel": 2,
   "linkPrefix": "📍",
   "urlPrefix": "🌐",
+  "parseTODO": false,
+  "todo": "☐",
+  "done": "🗹",
   "hoverPreviewWithoutCTRL": false,
   "linkOpacity": 1,
   "openInAdjacentPane": false,
+  "openInMainWorkspace": true,
   "showLinkBrackets": true,
   "allowCtrlClick": true,
   "forceWrap": false,
   "pageTransclusionCharLimit": 200,
   "wordWrappingDefault": 0,
+  "removeTransclusionQuoteSigns": true,
   "iframelyAllowed": true,
   "pngExportScale": 1,
   "exportWithTheme": true,
   "exportWithBackground": true,
   "exportPaddingSVG": 10,
-  "keepInSync": true,
+  "keepInSync": false,
   "autoexportSVG": true,
   "autoexportPNG": false,
+  "autoExportLightAndDark": false,
   "autoexportExcalidraw": false,
-  "embedType": "SVG",
+  "embedType": "excalidraw",
   "embedWikiLink": true,
-  "syncExcalidraw": true,
+  "syncExcalidraw": false,
   "experimentalFileType": false,
   "experimentalFileTag": "✏️",
   "experimentalLivePreview": true,
@@ -67,22 +73,10 @@
   "mdFontColor": "Black",
   "mdBorderColor": "Black",
   "mdCSS": "",
-  "scriptEngineSettings": {
-    "Downloaded/Add Link to New Page and Open": {
-      "Open link in active pane": {
-        "value": true,
-        "description": "Open the link in the current active pane (on) or a new pane (off)."
-      }
-    },
-    "Downloaded/OCR - Optical Character Recognition": {
-      "token": {
-        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NTY4NzUxNjgsImF1ZCI6Im9jci50YXNrYm9uZS5jb20iLCJpc3MiOiJ3d3cudGFza2JvbmUuY29tIiwic3ViIjoiZGVmZW5zaXZlX2FxdWFfd2hhbGUifQ.0pfeM-EPCCH9RQxwUK_e35rMRnHBUYbVrojEHoz-TEk",
-        "hidden": true
-      }
-    }
-  },
+  "scriptEngineSettings": {},
   "defaultTrayMode": false,
-  "previousRelease": "1.6.34",
+  "previousRelease": "1.7.25",
   "showReleaseNotes": true,
+  "showNewVersionNotification": true,
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js"
 }

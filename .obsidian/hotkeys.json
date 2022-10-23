@@ -1,15 +1,7 @@
 {
+  "file-explorer:new-file-in-new-pane": [],
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
-  "obsidian-excalidraw-plugin:insert-link": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "E"
-    }
-  ],
-  "obsidian-excalidraw-plugin:toggle-lock": [],
-  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-on-current": [
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed": [
     {
       "modifiers": [
         "Mod"
@@ -17,30 +9,13 @@
       "key": "B"
     }
   ],
-  "periodic-notes:open-daily-note": [
+  "editor:toggle-bold": [],
+  "file-explorer:move-file": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "Z"
-    }
-  ],
-  "workbench-obsidian:workbench-embed-current-note": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "C"
-    }
-  ],
-  "app:go-back": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "ArrowLeft"
+      "key": "M"
     }
   ],
   "editor:delete-paragraph": [],
@@ -52,60 +27,17 @@
       "key": "D"
     }
   ],
-  "workbench-obsidian:insert-workbench": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "V"
-    }
-  ],
-  "editor:insert-embed": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "E"
-    }
-  ],
-  "obsidian-excalidraw-plugin:Downloaded/Create new markdown file and embed into active drawing": [],
-  "obsidian-excalidraw-plugin:Downloaded/Add Link to New Page and Open": [],
-  "obsidian-excalidraw-plugin:convert-to-excalidraw": [],
-  "quickadd:choice:57a4635b-2410-4b76-8bf2-fe972b76e538": [
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-excalidraw-plugin:toggle-lock": [],
+  "note-refactor-obsidian:app:extract-selection-content-only": [],
+  "note-refactor-obsidian:app:extract-selection-first-line": [],
+  "note-refactor-obsidian:app:extract-selection-autogenerate-name": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "B"
-    }
-  ],
-  "editor:toggle-bold": [],
-  "obsidian-excalidraw-plugin:Downloaded/Scribble Helper": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "7"
-    }
-  ],
-  "pane-relief:go-3rd": [],
-  "pane-relief:put-3rd": [],
-  "quick-explorer:browse-current": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Q"
-    }
-  ],
-  "file-explorer:move-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "M"
+      "key": "N"
     }
   ],
   "zk-prefixer": [
@@ -116,14 +48,65 @@
       "key": "Z"
     }
   ],
-  "note-refactor-obsidian:app:extract-selection-first-line": [],
-  "workspace:open-in-new-window": [
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "backlink:open-backlinks": [],
+  "backlink:open": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "P"
+      "key": "B"
+    }
+  ],
+  "app:open-settings": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
+    }
+  ],
+  "quick-explorer:browse-current": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "workbench-obsidian:insert-workbench": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
+    }
+  ],
+  "workbench-obsidian:workbench-embed-current-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "markdown:toggle-preview": [],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
     }
   ]
 }

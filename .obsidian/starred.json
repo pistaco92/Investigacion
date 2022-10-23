@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "PROYECTO",
+      "path": "PROYECTO.md"
+    },
+    {
+      "type": "file",
+      "title": "202208050336i",
+      "path": "Bandeja/202208050336i.md"
+    },
+    {
+      "type": "file",
+      "title": "202208240341",
+      "path": "Ideas/202208240341.md"
+    },
+    {
+      "type": "file",
+      "title": "202208260308 o",
+      "path": "Ideas/202208260308.md"
+    }
+  ]
+}

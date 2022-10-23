@@ -1,3 +1,4 @@
+#Titulo 
 # 4dx primera parte 
 - Enfocarse en la Meta crucialmente importante;
 es relevante dado que permite una buena execution. el impedimento suelen ser los Mismos lideres que tienden a acaparar Metas.

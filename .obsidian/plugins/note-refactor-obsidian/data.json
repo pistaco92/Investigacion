@@ -3,9 +3,9 @@
   "excludeFirstLineInNote": false,
   "headingFormat": "#",
   "newFileLocation": 1,
-  "customFolder": "Bandeja",
-  "fileNamePrefix": "",
-  "transcludeByDefault": false,
+  "customFolder": "",
+  "fileNamePrefix": "{{date}}",
+  "transcludeByDefault": true,
   "noteLinkTemplate": "",
   "refactoredNoteTemplate": ""
 }

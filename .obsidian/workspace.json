@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "b5413cf9fda74fc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a20b93d6c0c5b5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9efd7c9c21f18545",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cae9e3073fa88b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f511445d703e911",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "107d9d25c0ea36bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "low resolution",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75eee3ddd78f96ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "4c9429790e68a49f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "815afc11c0c2b435",
+    "type": "split",
+    "children": [
+      {
+        "id": "cba1d1b6e8251284",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcdf9e7e369c7014",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "833022ecf24d8c81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce4d5c5e6382104a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "30d4703ac7d54c8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "284ac706e14fdd5a",
+            "type": "leaf",
+            "state": {
+              "type": "stat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc8f91aa5ce2e780",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "9efd7c9c21f18545",
+  "lastOpenFiles": [
+    "Bandeja/202210230728.md",
+    "Excalidraw/202210230728 2022-10-23 07.29.10.excalidraw.md",
+    "Excalidraw/202210230728 2022-10-23 07.29.10.excalidraw.svg",
+    "Map of content.md",
+    "Workbench.md",
+    "Titulos.md",
+    "Ideas/1344.png",
+    "Ideas/202207250229.md",
+    "Ideas/Logrado despertar.md",
+    "Ideas/Gggg.md"
+  ]
+}

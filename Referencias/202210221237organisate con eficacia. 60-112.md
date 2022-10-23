@@ -1,0 +1,16 @@
+# organisate con eficacia. 60-112
+• capitulo 2
+• capitulo 3
+
+Pone énfasis en que se debe tener una Bandeja. en cambio, no menciona problema respecto a tener listas dispersas. 5 Fases para planificación.
+1) Capturar 2) clarificar 3) organisar 4) Reflexionar 5) actuar
+de misma Naturales.; Proceso para proyectos - Principios, resultados, lluvia, organisar, Actuar • . Separación de herramientas dada- características, es decir. ciclos, informacion, Accionablescapturadur.at" Bandeja"\, con fecha. o tambien, lo urgente, lo delegable, lo poltergable.li señalo para convivir con caos diario. modelos para fases de proyecto, los 5. el modelo de Actuar, por citar alguno.
+
+el modelo de actuar se basa en los siguientes criterios;
+1) Tiempo
+2) energia
+3) usufructo
+4) entorno - contexto -
+
+se pueden estar Haciendo 3 cosas; trabajo planificado, Torbellino, planificación.
+pone Enfasis en gestion liberal, pero pulcra -constante-, lo que lleva a la integration de dia de revision.
